@@ -1,0 +1,1 @@
+web: gunicorn kaliDoces.wsgi --log-file -
