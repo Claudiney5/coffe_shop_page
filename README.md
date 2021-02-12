@@ -1,1 +1,1 @@
-Site para treinamento de Django
+Landing Page para cafeteria com objetivo de Django
