@@ -58,11 +58,11 @@ p, ul, ol {
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
-  color: #d18286;
+  color: #9dd2c7;
 }
 
 a:hover, a:focus, a:active {
-  color: #9dd2c7;
+  color: #d18286;
   text-decoration: none;
 }
 
@@ -748,8 +748,13 @@ section[data-section="menu"] {
 .probootstrap-footer {
   background-size: cover;
   background: #000000;
-  padding: 7em 0;
+  padding: 4em 0;
   color: rgba(255, 255, 255, 0.7);
+}
+
+.kali-footer {
+  height: 6rem;
+  width:10rem;
 }
 
 @media screen and (max-width: 768px) {
