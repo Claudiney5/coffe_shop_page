@@ -6383,8 +6383,8 @@ Copyright (c) 2015 Daniel Eden
   padding: 0;
 }
 .flexslider .slides > li {
-  /* display: none;
-  -webkit-backface-visibility: hidden; */
+  display: none;
+  -webkit-backface-visibility: hidden;
 }
 .flexslider .slides img {
   width: 100%;
